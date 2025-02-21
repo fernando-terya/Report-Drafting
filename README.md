@@ -1,10 +1,7 @@
-**Improved and Expanded Version with Technical AI/ML and Remote Sensing Details**
-
----
 
 ## **Objective**
 
-The primary objective of this work package is to design and implement a robust, AI-driven framework capable of automatically generating Monitoring, Verification, and Reporting (MVR) documents for the Voluntary Carbon Market (VCM) in a specific region of Spain. This framework will leverage:
+The primary objective is to design and implement a robust, AI-driven framework capable of automatically generating Monitoring, Verification, and Reporting (MVR) documents for the Voluntary Carbon Market (VCM) in a specific region of Spain. This framework will leverage:
 
 1. **Advanced Natural Language Processing (NLP):** Utilizing a large language model (e.g., ChatGPT-4) to interpret regulations, extract and summarize critical information, and produce structured MVR reports.
 2. **Machine Learning and Remote Sensing:** Incorporating geospatial data from satellites, UAVs (Unmanned Aerial Vehicles), and other remote sensing technologies to validate carbon project performance and land-use changes.
